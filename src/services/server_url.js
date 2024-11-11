@@ -1,0 +1,1 @@
+export const server_url = "https://mp-player-server-1.onrender.com"
